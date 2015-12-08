@@ -5,10 +5,10 @@
 
 ## Getting Started
 
-Install `slush-bem` globally:
+Clone repository, and link with npm:
 
 ```bash
-$ npm install -g slush-bem
+$ npm link
 ```
 
 ### Usage
