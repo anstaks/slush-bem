@@ -2,6 +2,8 @@
 
 > Create BEM blocks
 
+## Useful links
+[http://thejackalofjavascript.com/building-slush-generator/](http://thejackalofjavascript.com/building-slush-generator/)
 
 ## Getting Started
 
