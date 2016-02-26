@@ -110,6 +110,9 @@ function run_gulp(param) {
             .pipe(insert.append('\n//= ../blocks/'+answers.blockName+'/'+answers.blockName+'.js'))
             .pipe(gulp.dest('./src/js/'));
         }
+        console.log("HTML link: @@include('./src/blocks/"+answers.blockName+"/"+answers.blockName+".html')");
+        console.log("CSS link: @import '../blocks/"+answers.blockName+"/"+answers.blockName+"';");
+        console.log("JavaScript link:  =../blocks/"+answers.blockName+"/"+answers.blockName);
       }
     );
   } 
