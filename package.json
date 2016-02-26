@@ -1,7 +1,7 @@
 {
     "name": "slush-bem",
     "description": "Create BEM blocks",
-    "version": "0.1.0",
+    "version": "0.1.11",
     "homepage": "https://github.com/anstaks/slush-bem",
     "author": {
         "name": "anstak",

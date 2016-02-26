@@ -97,7 +97,7 @@ project:
    # Navigate to the newly cloned directory
    cd slush-bem
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/Anton Borzenko/slush-bem
+   git remote add upstream https://github.com/anstaks/slush-bem
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:

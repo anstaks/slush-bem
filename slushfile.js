@@ -1,6 +1,6 @@
 /*
  * slush-bem
- * https://github.com/Anton Borzenko/slush-bem
+ * https://github.com/anstaks/slush-bem
  *
  * Copyright (c) 2015, anstak
  * Licensed under the MIT license.

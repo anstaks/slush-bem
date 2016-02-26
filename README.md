@@ -1,4 +1,4 @@
-# Slush Bem [![Build Status](https://secure.travis-ci.org/Anton Borzenko/slush-bem.png?branch=master)](https://travis-ci.org/Anton Borzenko/slush-bem) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-bem.png)](http://badges.enytc.com/for/npm/slush-bem)
+# Slush Bem [![Build Status](https://secure.travis-ci.org/anstaks/slush-bem.png?branch=master)](https://travis-ci.org/anstaks/slush-bem) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-bem.png)](http://badges.enytc.com/for/npm/slush-bem)
 
 > Create BEM blocks
 
@@ -37,10 +37,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/Anton Borzenko/slush-bem/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/anstaks/slush-bem/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/Anton Borzenko/slush-bem/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/anstaks/slush-bem/issues).
 
 ## License 
 
