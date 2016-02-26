@@ -2,17 +2,17 @@
     "name": "slush-bem",
     "description": "Create BEM blocks",
     "version": "0.1.0",
-    "homepage": "https://github.com/Anton Borzenko/slush-bem",
+    "homepage": "https://github.com/anstaks/slush-bem",
     "author": {
         "name": "anstak",
         "email": "anstak@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/Anton Borzenko/slush-bem.git"
+        "url": "git://github.com/anstaks/slush-bem.git"
     },
     "bugs": {
-        "url": "https://github.com/Anton Borzenko/slush-bem/issues"
+        "url": "https://github.com/anstaks/slush-bem/issues"
     },
     "license": "MIT",
     "main": "slushfile.js",
